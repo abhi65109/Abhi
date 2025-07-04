@@ -38,7 +38,7 @@ def brute_force_instagram(username, passwords):
 
 # Enter Username for Processing
 def main():
-    username = input('Enter the Instagram username: ')
+    username = input(' miss_kitty63109: ')
 
     # Default character set including symbols and numbers
     chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()'
